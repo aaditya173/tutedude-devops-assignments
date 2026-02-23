@@ -6,3 +6,24 @@ git checkout -b master_2
 
 git checkout master_1
 
+git add .
+
+git commit -m "Added To-Do page frontend in master_1"
+
+git push origin master_1
+
+git checkout master_2
+
+git add .
+
+git commit -m "Added /submittodoitem backend route with MongoDB storage in master_2"
+
+git push origin master_2
+
+git checkout main
+
+git merge master_1
+
+git merge master_2
+
+git push origin main
