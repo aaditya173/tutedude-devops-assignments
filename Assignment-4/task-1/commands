@@ -1,0 +1,23 @@
+git clone git@github.com:aaditya173/tutedude-devops-assignments.git
+
+cd tutedude-devops-assignments
+
+git checkout -b aaditya173
+
+mkdir Assignment-4
+
+copy the flask project directory to Assignment-4
+
+cd ..
+
+git add Assignment-4
+
+git commit -m "Add flask project in aaditya173 branch for assignment-4 task-1"
+
+git push origin aaditya173
+
+git checkout main
+
+git merge aaditya173
+
+git push origin main
