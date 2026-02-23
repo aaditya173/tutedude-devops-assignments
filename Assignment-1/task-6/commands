@@ -1,0 +1,3 @@
+touch secure.txt
+
+chmod 444 secure.txt

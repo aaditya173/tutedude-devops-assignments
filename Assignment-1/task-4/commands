@@ -1,0 +1,3 @@
+zip test_dir.zip test_dir
+
+unzip test_dir.zip -d unzipped_dir
