@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Alice",
+        "role": "Senior Developer"
+    },
+    {
+        "id": 2,
+        "name": "Bob",
+        "role": "UI/UX Designer"
+    },
+    {
+        "id": 3,
+        "name": "Charlie",
+        "role": "Project Manager"
+    },
+    {
+        "id": 4,
+        "name": "David",
+        "role": "DevOps Engineer"
+    }
+]
