@@ -1,0 +1,8 @@
+git checkout -b master_1
+
+git checkout main
+
+git checkout -b master_2
+
+git checkout master_1
+
