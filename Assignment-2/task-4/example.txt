@@ -1,0 +1,2 @@
+Hello! This is a sample text.
+We are learning how to write to a file using Python.
